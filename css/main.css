@@ -2,6 +2,23 @@
 body {
   background-color: #69C4CC;
   }
+
 header{
   background-color: #CFEFEE;
+}
+
+nav{background-color: #F3CECD;
+}
+
+header.top{
+  background-color: #FFFFFF;
+}
+
+.navynav li{
+  padding: 3px 10px;
+  background-color: pink;
+  display: inline-block;
+  border-radius: 10px;
+  width: 95px;
+
 }

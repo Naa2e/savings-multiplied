@@ -34,4 +34,4 @@ Colors:
 -  Bright Pink: #E9168C
 -  Bright Purple: #6F308B
 -  Dark Purple: #6F1549
-
+-  Light Pink: #F3CECD
